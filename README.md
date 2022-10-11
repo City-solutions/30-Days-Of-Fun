@@ -20,4 +20,8 @@ Tasks -
 | Day | Task | Description | Status |
 | --- | --- | --- | --- |
 | 1 | Hello World | https://www.hackerrank.com/challenges/30-hello-world/problem You've Got This! | :heavy_check_mark: |
-| 2 | Data Types | https://www.hackerrank.com/challenges/30-data-types/problem You've Got This! | :white_check_mark: |
+| 2 | Data Types | https://www.hackerrank.com/challenges/30-data-types/problem You've Got This! | :heavy_check_mark: |
+| 3 | Intro to Conditional Statements | https://www.hackerrank.com/challenges/30-conditional-statements/problem You've Got This! | :heavy_check_mark: |
+| 4 | Class vs. Instance | https://www.hackerrank.com/challenges/30-class-vs-instance/problem You've Got This! | :heavy_check_mark: |
+| 5 | Loops | https://www.hackerrank.com/challenges/30-loops/problem You've Got This! | :heavy_check_mark: |
+| 6 | Loops | https://www.hackerrank.com/challenges/30-review-loop/problem You've Got This! | :heavy_check_mark: |
