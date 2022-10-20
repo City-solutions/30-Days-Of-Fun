@@ -21,7 +21,8 @@ class Result {
         double tip = (meal_cost* tip_percent)/ 100;
         double tax = (meal_cost * tax_percent)/ 100;
         double result = meal_cost + tax + tip
-        System.out.println(Math.round(result))
+        System.out.println(Math.round(result
+        \))
     
 
     }
